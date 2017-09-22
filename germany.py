@@ -14,9 +14,9 @@ blackRect = RectangleAsset(500, 100, blackOutline, black)
 redRect = RectangleAsset(500, 100, blackOutline, red)
 yellowRect= RectangleAsset(500, 100, blackOutline, yellow)
 
-Sprite(blackRect,(200,0))
-Sprite(redRect,(200,100))
-Sprite(yellowRect,(200,200))
+Sprite(blackRect,(300,0))
+Sprite(redRect,(300,100))
+Sprite(yellowRect,(300,200))
 
 App().run()
 
