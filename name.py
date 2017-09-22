@@ -1,5 +1,5 @@
 #Emily Murphy
-#2017-09-20
+#2017-09-22
 #name.py - input name and an RGB color code --> print name in middle and background color is RGB input
 
 from ggame import *
